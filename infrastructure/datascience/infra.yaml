@@ -2,7 +2,7 @@
 apiVersion: catalog.projectx.mavenwave.dev/v1alpha1
 kind: DataScience
 metadata:
-  name: 
+  name: mayo-demo
 spec:
   parameters:
     controlplane:
